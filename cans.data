@@ -1,0 +1,5 @@
+classes=3
+train=data/cans/train.txt
+valid=data/cans/val.txt
+names=data/cans/classes.names
+backup=~/darknet/backup
